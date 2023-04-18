@@ -1,3 +1,3 @@
 # weather-app-tutorial
 
-live URL : 
+live URL : https://sookiezboly.github.io/weather-app-tutorial/
